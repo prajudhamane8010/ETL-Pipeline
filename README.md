@@ -50,7 +50,8 @@ python etl_pipeline.py
 
 ## 📷 Output
 
-(Add a screenshot of your terminal output here.)
+![Output](output.png)
+
 
 ---
 
