@@ -73,6 +73,8 @@ python etl_pipeline.py
 
 ## 📷 Output
 
+## 📷 Output
+
 ![ETL Pipeline Output](output.png)
 
 ---
