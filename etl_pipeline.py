@@ -6,7 +6,7 @@ print("=" * 50)
 
 # Step 1: Extract
 print("\nStep 1: Reading Dataset...")
-df = pd.read_csv("dataset/superstore_sales.csv")
+df = pd.read_csv("superstore_sales.csv")
 
 print("Dataset Loaded Successfully!")
 
