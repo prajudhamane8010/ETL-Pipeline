@@ -69,10 +69,7 @@ python etl_pipeline.py
 ### 📤 Load
 - Save the cleaned dataset as **cleaned_superstore_sales.csv**.
 
----
 
-
-## 📷 Output
 
 ## 📷 Output
 
